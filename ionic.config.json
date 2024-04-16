@@ -1,0 +1,8 @@
+{
+  "name": "Minimal ToDo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d17a7687"
+}
